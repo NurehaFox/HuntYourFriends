@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name"> </string>
+    <string name="button_send">ENTER</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button_map">GO TO MAP</string>
+    <string name="norm_mode">Normal Mode</string>
+    <string name="adv_mode">Advanced Mode</string>
+
+</resources>
